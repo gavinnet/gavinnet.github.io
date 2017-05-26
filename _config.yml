@@ -70,5 +70,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repository: https://github.com/gavinnet/gavinnet.github.io.git
+  repository: git@github.com:gavinnet/gavinnet.github.io.git
   branch: master
