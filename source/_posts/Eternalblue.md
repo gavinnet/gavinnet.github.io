@@ -12,12 +12,15 @@ tags: windows
 中木马后，虽然可以使用杀毒软件杀掉该木马，但加密文件没有任何办法还原。如果超过96小时未支付，木马不再弹窗，加密文件也随之被永久锁定。
 CTB-Locker’运用的是4096位算法，这种算法，普通电脑需要几十万年才能破解出来，超级电脑破解所需时间也可能得按年计算，国内外尚无任何机构和个人能够破解该病毒，支付赎金是恢复文件的唯一办法。
 
-'基于 x64 的系统的 Windows 7 的 2017 年 3 月仅安全质量更新 (KB4012212) 
+```
+基于 x64 的系统的 Windows 7 的 2017 年 3 月仅安全质量更新 (KB4012212) 
 http://download.windowsupdate.com/d/msdownload/update/software/secu/2017/02/windows6.1-kb4012212-x64_2decefaa02e2058dcd965702509a992d8c4e92b3.msu
 
 基于 x64 的系统的 Windows Server 2008 R2 的 2017 年 3 月仅安全质量更新 (KB4012212) 
-http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windows6.1-kb4012212-ia64_93a42b16dbea87fa04e2b527676a499f9fbba554.msu'
-
+http://download.windowsupdate.com/c/msdownload/update/software/secu/2017/02/windows6.1-kb4012212-ia64_93a42b16dbea87fa04e2b527676a499f9fbba554.msu`
+```
 对于windows XP、2003等微软已不再提供安全更新的机器，可使用360“NSA武器库免疫工具”检测系统是否存在漏洞，并关闭受到漏洞影响的端口，可以避免遭到勒索软件等病毒的侵害。
-'360免疫工具   http://dl.360safe.com/nsa/nsatool.exe
- 金山免疫工具  http://cd002.www.duba.net/duba/install/2011/ever/knsatool_20170514.exe'
+```
+360免疫工具   http://dl.360safe.com/nsa/nsatool.exe
+金山免疫工具  http://cd002.www.duba.net/duba/install/2011/ever/knsatool_20170514.exe
+```
